@@ -1,0 +1,5 @@
+ Planning study
+  - Javascript
+  - PHP
+  - Java
+  - Sistem Operasi
