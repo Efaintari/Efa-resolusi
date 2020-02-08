@@ -1,0 +1,7 @@
+ Planning study
+  - Javascript
+  - PHP
+   * Codeigniter
+  - Java
+  - Sistem Operasi
+   * Linux
