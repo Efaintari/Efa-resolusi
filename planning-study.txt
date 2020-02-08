@@ -1,7 +1,11 @@
  Planning study
   - Javascript
+   * React
+   * Vue
   - PHP
    * Codeigniter
-  - Java
+   * Laravel
   - Sistem Operasi
    * Linux
+    * Ubuntu
+    * Mint
