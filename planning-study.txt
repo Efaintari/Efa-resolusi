@@ -2,6 +2,7 @@
   - Javascript
    * React
    * Vue
+   * Angular
   - PHP
    * Codeigniter
    * Laravel
